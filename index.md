@@ -1,0 +1,53 @@
+---
+title       : Global Literacy
+subtitle    : Ages 15-24
+author      : 
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Global Literacy
+
+The United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics produces and manages data to monitor global trends on topics relevant for policy planning.  
+
+In 2000, the United Nations set goals to address issues related to poverty, including hunger, education, gender equity, child mortality, maternal health, disease, environmental resources, and 
+development.  Within gender equity, it set the target:
+
+Eliminate gender disparity in primary and secondary education, preferably by 2005, and in all levels of education no later than 2015.
+
+---
+
+## Progress in Literacy Goals
+
+According to new data released by UNESCO, literacy rates are climbing.   Young women show the largest gains but have not yet reached equity with young men.  
+
+In 2011, 87% of female youth had basic literacy skills, compared to 92% of males. ... Despite these gains, 774 million adults (15 years and older) still cannot read or write – two-thirds of them (493 million) are women.
+
+The overall trend is positive, but are there individual countries that are not showing such gains or countries with striking progress that might serve as models for other countries?
+
+
+---
+
+## Monitor Progress Towards Gender Equity in Literacy
+
+This application explores the literacy rates for ages 15-24 in more than 100 countries and territories using UNESCO data.  Data are presented by country as well as by twelve Millenium Development Goal (MDG) regions.  Graphical displays of trends over the period 1975 to 2013 compare literacy rates for a selectd region with the mean literacy rate across all data reported to the United Nations.  A tablular report summarizes the overall literacy rates by year for the selected region.
+
+Use the GlobLit application to select a country and explore the trends in literacy by gender at https://ysb76.shinyapps.io/GlobLit/.
+
+---
+
+## 
+
+_Trends in the gender disparity in literacy for ages 15-24 in 2013._
+
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+
+
+
+
+
