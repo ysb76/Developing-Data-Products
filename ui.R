@@ -24,7 +24,7 @@ shinyUI(pageWithSidebar(
                 p("(Ages 15-24, genders combined)"), br(),
                 tableOutput("table")),
             tabPanel("About", 
-                p("This app explores the literacy rates for ages 25-24 in more than 100 countries and territories using 
+                p("This app explores the literacy rates for ages 15-24 in more than 100 countries and territories using 
                 UNESCO data.  Data are presented by country as well as by twelve Millenium 
                 Development Goal (MDG) regions."), br(),
                 p("Select a region in the sidebar panel window to update the Plot and Table tabs."), br(),
